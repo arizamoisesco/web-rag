@@ -175,5 +175,6 @@ pyrightconfig.json
 
 #document local folder
 src
+chroma_db_dir
 
 # End of https://www.toptal.com/developers/gitignore/api/python
